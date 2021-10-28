@@ -1,0 +1,22 @@
+.layoutWrapper {
+  background: #464169;
+  min-width: 100vw;
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  padding: 100px 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.layoutWindow {
+  background: #8368c2;
+  width: 400px;
+  height: 300px;
+  border-radius: 12px;
+  padding: 60px;
+  box-shadow: 0 0 12px hsla(0, 0%, 0%, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
